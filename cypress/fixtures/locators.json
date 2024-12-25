@@ -1,0 +1,13 @@
+{
+    "loginpg": {
+        "login-link"  : ".ico-login",
+        "email" : "#Email",
+        "password" : "#Password",
+        "loginbtn" : "form > .buttons > .button-1"
+
+    },
+    "regiterpg" : {
+
+        
+    }
+}
